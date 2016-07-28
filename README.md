@@ -1,5 +1,5 @@
 # AzureResourceGroupCleanup
 
-The above Powershell can be used to clean your Azure subscription.
+The above Powershell script snippet will clean the Azure subscription.
 
-*Make a note that it deletes all the resources and resournce groups of the current selected subscription*
+**This will delete all the resources and resournce groups of the current subscription without any warning**
